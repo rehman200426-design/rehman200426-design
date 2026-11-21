@@ -3,7 +3,7 @@
 <rect x="24" y="55" width="4" height="62" rx="2" fill="#b6ff79"/>
 <text x="58" y="68" fill="#b6ff79" font-size="13" letter-spacing="4">01 / THE DEVELOPER</text>
 <text x="56" y="126" fill="#f6f2ff" font-size="38" font-weight="700">Curiosity meets code.</text>
-<text x="58" y="174" fill="#c0b6d7" font-size="20">I'm Rehman. I build practical web applications,</text>
+<text x="58" y="174" fill="#c0b6d7" font-size="20">I'm Abdul Rehman. I build practical web applications,</text>
 <text x="58" y="207" fill="#c0b6d7" font-size="20">from the interface to the backend and database.</text>
 <g transform="translate(970 150)"><circle r="76" fill="#21183e" stroke="#493465"/><ellipse rx="101" ry="35" transform="rotate(-35)" fill="none" stroke="#9a7aff"/><circle cx="81" cy="-49" r="6" fill="#b6ff79"/><text y="8" text-anchor="middle" fill="#b6ff79" font-size="21" font-family="Consolas,monospace">&lt; / &gt;</text></g>
 </g></svg>
