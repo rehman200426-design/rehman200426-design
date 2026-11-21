@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#17232f"/><stop offset="0.55" stop-color="#405262"/><stop offset="1" stop-color="#8b969f"/></linearGradient></defs>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <g fill="none" stroke="#67e8f9" stroke-opacity="0.2" stroke-width="2">
+    <path d="M0 72H110L145 107H225M0 108H72L125 161H180M1200 65H1090L1055 100H975M1200 105H1128L1075 158H1020"/>
+    <circle cx="225" cy="107" r="5"/><circle cx="180" cy="161" r="5"/><circle cx="975" cy="100" r="5"/><circle cx="1020" cy="158" r="5"/>
+  </g>
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#fff">
+    <text x="600" y="158" font-size="84" font-weight="700">Rehman</text>
+    <text x="600" y="207" font-size="27" font-weight="600">Full Stack Developer</text>
+    <text x="600" y="246" font-size="19" fill="#c6f6ff" letter-spacing="3">ANGULAR · DJANGO · PYTHON</text>
+  </g>
+  <path d="M0 299Q300 330 600 303T1200 302V340H0Z" fill="#17232f" opacity="0.6"/>
+  <path d="M0 316Q300 340 650 319T1200 327V340H0Z" fill="#0d1117"/>
+</svg>
